@@ -1,0 +1,93 @@
+<div class=" d-flex flex-row justify-content-center  p-2">
+    <!--
+    <form [formGroup]="formulario" (ngSubmit)="onSubmit()">
+        <div class="d-flex flex-row flex-wrap">
+            
+            <div class="mt-3 p-1">
+                <p-floatLabel class="d-flex">
+                    <input pInputText formControlName="name" id="name" type="text" required>
+                    <label for="name">Nombre</label>
+                </p-floatLabel>
+
+            </div>
+            <div class="mt-3 p-1">
+                <p-floatLabel>
+                    <input pInputText formControlName="lastname" id="lastname" type="text" required>
+                    <label for="lastname">Apellido</label>
+                </p-floatLabel>
+            </div>
+            <div class="mt-3 p-1">
+                <p-floatLabel class="ng-invalid ng-dirty">
+                    <input pInputText formControlName="password" id="password" type="password" required>
+                    <label for="password">Password</label>
+                </p-floatLabel>
+            </div>
+            <div class="mt-3 p-1">
+                <p-floatLabel>
+                    <p-dropdown 
+                        [options]="countries"
+                        formControlName="paisid"                       
+                        optionLabel="name" 
+                        placeholder="Select a City"
+                        (onChange)="onSelect($event)" />
+                    <label for="password">Pais</label>
+                </p-floatLabel>
+            </div>
+
+        
+            <div class="mt-3 p-1">
+                <p-button label="Registrar" icon="pi pi-check" [loading]="loading" (onClick)="onSubmit()">
+                    
+                </p-button>
+            </div>
+        
+        </div>
+        
+    </form>
+        -->
+
+
+    <p-table [value]="products" [tableStyle]="{'min-width': '60rem'}">
+        <ng-template pTemplate="caption">
+            <div class="flex align-items-center justify-content-between">
+                Clientes
+            </div>
+        </ng-template>
+        <ng-template pTemplate="header">
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Rut</th>
+                <th>Direccion</th>
+                <th>Email</th>
+                <th>Telefono</th>
+                <th>Pais</th>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-product>
+            <tr>
+                <td>{{product.id}}</td>
+                <td>{{product.nombre}} </td>
+                <td>{{product.apellido}}</td>
+                <td>{{product.rut}}</td>
+                <td>{{product.direccion}}</td>
+                <td>{{product.email }}</td>
+                <td>{{product.telefono }}</td>
+                <td>{{product.pais}}</td>
+            </tr>
+        </ng-template>
+        <ng-template pTemplate="summary">
+            <div class="flex align-items-center justify-content-between">
+                En total {{products ? products.length : 0 }} clientes.
+            </div>
+        </ng-template>
+    </p-table>
+    
+</div>
+
+
+
+<!--
+<app-listar></app-listar>
+-->

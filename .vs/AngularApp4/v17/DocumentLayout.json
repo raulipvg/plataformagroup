@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|c:\\users\\rfmun\\desktop\\angularapp4\\angularapp4.server\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|solutionrelative:angularapp4.server\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|c:\\users\\rfmun\\desktop\\angularapp4\\angularapp4.server\\migrations\\20240715204732_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|solutionrelative:angularapp4.server\\migrations\\20240715204732_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|c:\\users\\rfmun\\desktop\\angularapp4\\angularapp4.server\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|solutionrelative:angularapp4.server\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|c:\\users\\rfmun\\desktop\\angularapp4\\angularapp4.server\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|solutionrelative:angularapp4.server\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|c:\\users\\rfmun\\desktop\\angularapp4\\angularapp4.server\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|solutionrelative:angularapp4.server\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|c:\\users\\rfmun\\desktop\\angularapp4\\angularapp4.server\\models\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|solutionrelative:angularapp4.server\\models\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|c:\\users\\rfmun\\desktop\\angularapp4\\angularapp4.server\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|solutionrelative:angularapp4.server\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|c:\\users\\rfmun\\desktop\\angularapp4\\angularapp4.server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|solutionrelative:angularapp4.server\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|c:\\users\\rfmun\\desktop\\angularapp4\\angularapp4.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\AngularApp4.Server.csproj|solutionrelative:angularapp4.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AngularApp4.Server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AngularApp4.Server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAkwEUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:48:08.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240715204732_PrimeraMigracion.cs",
+              "DocumentMoniker": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Migrations\\20240715204732_PrimeraMigracion.cs",
+              "RelativeDocumentMoniker": "AngularApp4.Server\\Migrations\\20240715204732_PrimeraMigracion.cs",
+              "ToolTip": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Migrations\\20240715204732_PrimeraMigracion.cs",
+              "RelativeToolTip": "AngularApp4.Server\\Migrations\\20240715204732_PrimeraMigracion.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:47:32.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Models\\Pais.cs",
+              "RelativeDocumentMoniker": "AngularApp4.Server\\Models\\Pais.cs",
+              "ToolTip": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Models\\Pais.cs",
+              "RelativeToolTip": "AngularApp4.Server\\Models\\Pais.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:22:22.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fe34c2aa-59b3-40ad-a3b6-2743d072d2aa}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AngularApp4.Server\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Models\\Usuario.cs",
+              "RelativeToolTip": "AngularApp4.Server\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:18:55.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "AngularApp4.Server\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "AngularApp4.Server\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T22:25:12.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AngularApp4.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AngularApp4.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T22:25:12.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Models\\DB\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AngularApp4.Server\\Models\\DB\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Models\\DB\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AngularApp4.Server\\Models\\DB\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:36:32.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "AngularApp4.Server\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Models\\Cliente.cs",
+              "RelativeToolTip": "AngularApp4.Server\\Models\\Cliente.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:19:16.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "AngularApp4.Server\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\rfmun\\Desktop\\AngularApp4\\AngularApp4.Server\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "AngularApp4.Server\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:34:31.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

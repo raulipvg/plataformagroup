@@ -1,0 +1,39 @@
+<div class=" d-flex flex-row justify-content-center  p-2">
+  <p-table [value]="products" [tableStyle]="{'min-width': '60rem'}">
+      <ng-template pTemplate="caption">
+          <div class="flex align-items-center justify-content-between">
+              Clientes
+          </div>
+      </ng-template>
+      <ng-template pTemplate="header">
+          <tr>
+              <th>Id</th>
+              <th>Nombre</th>
+              <th>Apellido</th>
+              <th>Rut</th>
+              <th>Direccion</th>
+              <th>Email</th>
+              <th>Telefono</th>
+              <th>Pais</th>
+          </tr>
+      </ng-template>
+      <ng-template pTemplate="body" let-product>
+          <tr>
+              <td>{{product.id}}</td>
+              <td>{{product.nombre}} </td>
+              <td>{{product.apellido}}</td>
+              <td>{{product.rut}}</td>
+              <td>{{product.direccion}}</td>
+              <td>{{product.email }}</td>
+              <td>{{product.telefono }}</td>
+              <td>{{product.pais}}</td>
+          </tr>
+      </ng-template>
+      <ng-template pTemplate="summary">
+          <div class="flex align-items-center justify-content-between">
+              En total {{products ? products.length : 0 }} clientes.
+          </div>
+      </ng-template>
+  </p-table>
+  
+</div>
